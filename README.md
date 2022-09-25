@@ -10,6 +10,7 @@ Actualmente las emisiones de efecto invernadero han presentado un gran problema 
 ## Método Propuesto
 
 ## Integrantes
+1. Allisson Fiorella Guevara Milla (24203)
 
 ## Fuente de datos
 
