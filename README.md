@@ -12,6 +12,7 @@ Actualmente las emisiones de efecto invernadero han presentado un gran problema 
 ## Integrantes
 1. Allisson Fiorella Guevara Milla (24203)
 2. Krissia Nohemi Guerrero Flores (24214)
+3. Mario David Osorio Banegas (24205)
 
 ## Fuente de datos
 
