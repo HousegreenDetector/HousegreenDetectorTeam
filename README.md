@@ -18,6 +18,7 @@ Actualmente las emisiones de efecto invernadero han presentado un gran problema 
 6. Daniela Sofia Chojolan Alvarez (24226)
 7. Fernando Enriquez Sarceño Zuñiga (24145)
 8. Jorge Sebastian Gonzalez Tucubal (24010)
+9. Marcela Sarai Paz Bonilla (24204)
 
 ## Fuente de datos
 
