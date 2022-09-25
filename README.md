@@ -14,9 +14,10 @@ Actualmente las emisiones de efecto invernadero han presentado un gran problema 
 2. Krissia Nohemi Guerrero Flores (24214)
 3. Mario David Osorio Banegas (24205)
 4. Ana Sofia Prieto Garrido(24044)
-5.Jacqueline Elisa Alfaro Funes (24195)
+5. Jacqueline Elisa Alfaro Funes (24195)
 6. Daniela Sofia Chojolan Alvarez (24226)
 7. Fernando Enriquez Sarceño Zuñiga (24145)
+8. Jorge Sebastian Gonzalez Tucubal (24010)
 
 ## Fuente de datos
 
