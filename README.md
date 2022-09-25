@@ -13,6 +13,7 @@ Actualmente las emisiones de efecto invernadero han presentado un gran problema 
 1. Allisson Fiorella Guevara Milla (24203)
 2. Krissia Nohemi Guerrero Flores (24214)
 3. Mario David Osorio Banegas (24205)
+4. Ana Sofia Prieto Garrido (24044)
 
 ## Fuente de datos
 
