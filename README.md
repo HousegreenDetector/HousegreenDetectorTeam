@@ -20,6 +20,7 @@ Actualmente las emisiones de efecto invernadero han presentado un gran problema 
 8. Jorge Sebastian Gonzalez Tucubal (24010)
 9. Marcela Sarai Paz Bonilla (24204)
 10. Sara Stephannie Sandoval Morán (24220)
+11. Gabriela Lissen Uribe Quintero (24175)
 
 ## Fuente de datos
 
