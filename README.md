@@ -87,7 +87,6 @@ Se concluye que los GEI en la actualidad no se han tomado en cuenta por parte de
 
 Se creo una iniciativa como jóvenes encargados de la seguridad alimentaria de las generaciones futuras, de empezar a buscar soluciones para este fenómeno que afecta drásticamente nuestro rubro, comenzando desde ya para poder corregir este efecto generado a lo largo de los años.
 
-
 # Referencias
 
 1. Benavides, H. & León, G. (2007). Información técnica sobre gases de efecto invernadero y el cambio climático. Recuperado de http://www.ideam.gov.co/documents/21021/21138/Gases+de+Efecto+Invernadero+y+el+Cambio+Climatico.pdf 
