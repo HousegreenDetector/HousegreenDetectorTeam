@@ -14,6 +14,15 @@
 # HousegreenDetectorTeam
 Es un proyecto para la electiva de TEA (Tecnologia e Innovación en Tecnologia Agricola) en Zamorano, en el cual nuestro grupo trata de presentar diferentes casos donde el GEI (Gases de Efectos Invernadero) afecta a diferentes paises de Latinoamerica en cuanto a la presencia de CO2, Carbono y eficiencia energetica. Presentando asi gráficas que nos ayuden a observar de mejor manera dichos efectos en los paises. Los paises a los que se le dara enfásis serán: El Salvador, Guatemala, Honduras y Pánama.
 
+## Objetivos
+- Presentar una posible solución factible y versátil para reducir los efectos causados por los gases de efecto invernadero en Centroamérica.  
+- Exponer y diferenciar los efectos de los diferentes gases (Metano, Óxido nitroso, CO2) en el ambiente con ayuda de gráficas que comparan la situación actual con la de hace 10 años, en los países de Centroamérica.  
+- Estimar el consumo de energía primaria per cápita, medido en kilovatios-hora por persona por año, para evaluar los cambios que ha habido durante un período de 10 años y tener como resultado si el consumo de estos ha afectado de manera significativa los aumentos de los gases de efecto invernadero; en Centroamérica. 
+- Proyectar las emisiones de gases de efecto invernadero en diferentes sectores en un intervalo de 10 años, en los países de Estados Unidos, El Salvador y Perú representando Norte, Centro y Suramérica, los cuales son:  
+CO2, en el sector territorial e industrial. 
+CH4 y N2O, en el uso de la tierra y silvicultura. 
+
+
 ## Método Propuesto
 Para la realización de este proyecto se utilizó el lenguaje de programación Python sobre VSC (Visual Studio Code) y utilizaremos GitHub para subirlo, documentarlo y exponerlo.
 Este proyecto incluye la utilización de herramientas de desarrollo como Python sobre Visual Studio Code. Adicionalmente, se implementó GitHub para subir y documentar todo el Proyecto y exponer el proyecto al público de una manera open source. Para la ingestión, manipulación, y análisis de datos se utilizaron múltiples librerías de Python (CSV, Pandas, Matplotlib). En donde dimos a conocer nuestra prueba de concepto por medio de un video y también diapositivas que explican los resultados obtenidos.
