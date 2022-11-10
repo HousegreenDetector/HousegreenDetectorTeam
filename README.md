@@ -1,3 +1,6 @@
+# HousegreenDetectorTeam
+Es un proyecto para la electiva de TEA (Tecnologia e Innovación en Tecnologia Agricola) en Zamorano, en el cual nuestro grupo trata de presentar diferentes casos donde el GEI (Gases de Efectos Invernadero) afecta a diferentes paises de Latinoamerica en cuanto a la presencia de CO2, Carbono y eficiencia energetica. Presentando asi gráficas que nos ayuden a observar de mejor manera dichos efectos en los paises del continente americano.
+
 ## Integrantes
 1. Allisson Fiorella Guevara Milla (24203)
 2. Krissia Nohemi Guerrero Flores (24214)
@@ -11,20 +14,19 @@
 10. Sara Stephannie Sandoval Morán (24220)
 11. Gabriela Lissen Uribe Quintero (24175)
 
-# HousegreenDetectorTeam
-Es un proyecto para la electiva de TEA (Tecnologia e Innovación en Tecnologia Agricola) en Zamorano, en el cual nuestro grupo trata de presentar diferentes casos donde el GEI (Gases de Efectos Invernadero) afecta a diferentes paises de Latinoamerica en cuanto a la presencia de CO2, Carbono y eficiencia energetica. Presentando asi gráficas que nos ayuden a observar de mejor manera dichos efectos en los paises. Los paises a los que se le dara enfásis serán: El Salvador, Guatemala, Honduras y Pánama.
 
 ## Objetivos
-- Presentar una posible solución factible y versátil para reducir los efectos causados por los gases de efecto invernadero en Centroamérica.  
-- Exponer y diferenciar los efectos de los diferentes gases (Metano, Óxido nitroso, CO2) en el ambiente con ayuda de gráficas que comparan la situación actual con la de hace 10 años, en los países de Centroamérica.  
-- Estimar el consumo de energía primaria per cápita, medido en kilovatios-hora por persona por año, para evaluar los cambios que ha habido durante un período de 10 años y tener como resultado si el consumo de estos ha afectado de manera significativa los aumentos de los gases de efecto invernadero; en Centroamérica. 
-- Proyectar las emisiones de gases de efecto invernadero en diferentes sectores en un intervalo de 10 años, en los países de Estados Unidos, El Salvador y Perú representando Norte, Centro y Suramérica, los cuales son:  
-CO2, en el sector territorial e industrial. 
-CH4 y N2O, en el uso de la tierra y silvicultura. 
+1.	Presentar una posible solución factible y versátil para reducir los efectos causados por los gases de efecto invernadero en Centroamérica.  
+2.	Exponer y diferenciar los efectos de los diferentes gases (Metano, Óxido nitroso, CO2) en el ambiente con ayuda de gráficas que comparan la situación actual con la de hace 10 años, en los países de Centroamérica.  
+3.	Proyectar las emisiones de gases de efecto invernadero en diferentes sectores en un intervalo de 10 años, en los países de Estados Unidos, El Salvador y Perú representando Norte, Centro y Suramérica, los cuales son:  
+ -	CO2, en el sector territorial e industrial. 
+ -	CH4 en el uso de la tierra y silvicultura. 
+4.	Estimar el consumo de energía primaria per cápita, medido en kilovatios-hora por persona por año, para evaluar los cambios que ha habido durante un período de 10 años y tener como resultado si el consumo de estos ha afectado de manera significativa los aumentos de los gases de efecto invernadero; en Centroamérica. 
+
 
 
 ## Método Propuesto
-Para la realización de este proyecto se utilizó el lenguaje de programación Python sobre VSC (Visual Studio Code) y utilizaremos GitHub para subirlo, documentarlo y exponerlo.
+Para la realización de este proyecto se utilizó el lenguaje de programación Python sobre Jupyter notebook y utilizaremos GitHub para subirlo, documentarlo y exponerlo.
 Este proyecto incluye la utilización de herramientas de desarrollo como Python sobre Visual Studio Code. Adicionalmente, se implementó GitHub para subir y documentar todo el Proyecto y exponer el proyecto al público de una manera open source. Para la ingestión, manipulación, y análisis de datos se utilizaron múltiples librerías de Python (CSV, Pandas, Matplotlib). En donde dimos a conocer nuestra prueba de concepto por medio de un video y también diapositivas que explican los resultados obtenidos.
 
 
@@ -35,7 +37,7 @@ En este proyecto se utilizaron datos obtenidos desde GitHub, que han sido recopi
 
 ## Problema a Resolver
 
-Problemática: Impacto de las emisiones de CO2 y gases de efecto invernadero en el mundo.
+Problemática: Impacto de las emisiones de CO2 y gases de efecto invernadero en el continente americano.
 
 1.1. ¿Qué son los Gases de Efecto Invernadero?
 Los gases de efecto invernadero (GEI) o gases de invernadero son los componentes gaseosos de la atmósfera, tanto naturales como antropógenos, que absorben y emiten radiación en determinadas longitudes de onda del espectro de radiación infrarroja emitido por la superficie de la Tierra, la atmósfera y las nubes. Esta propiedad produce el efecto invernadero. En la atmósfera de la Tierra, los principales GEI son el vapor de agua (H2O), el dióxido de carbono (CO2), el óxido nitroso (N2O), el metano (CH4) y el ozono (O3). Hay además en la atmósfera una serie de GEI creados íntegramente por el ser humano, como los halocarbonos y otras sustancias con contenido de cloro y bromo, regulados por el Protocolo de Montreal como el hexafluoruro de azufre (SF6), los hidrofluorocarbonos (HFC) y los perfluorocarbonos (PFC). Están clasificados en GEI directos e indirectos. (Benavides & León, 2007, p.36)
@@ -83,9 +85,14 @@ Otra acción de mitigación que implica un cambio radical en la elección de los
  
  
  ## Conclusiones
-Se concluye que los GEI en la actualidad no se han tomado en cuenta por parte de las grandes empresas y se están dejando pasar por alto, por eso este proyecto se está llevando a a cabo para buscar una manera de mitigar
+●	Concluimos que los GEI en la actualidad no se han tomado en cuenta por parte de las grandes empresas y lo están dejando pasar por alto, por eso este proyecto se está representando mediante gráficas mostrando, así como esto ha aumentado o disminuido a lo largo de los años.
 
-Se creo una iniciativa como jóvenes encargados de la seguridad alimentaria de las generaciones futuras, de empezar a buscar soluciones para este fenómeno que afecta drásticamente nuestro rubro, comenzando desde ya para poder corregir este efecto generado a lo largo de los años.
+●	Se utilizaron programas tales como GitHub, Python, Jupyther que permitieron almacenar, recolectar, clasificar, analizar e interpretar los datos facilitando la comprensión de los mismo y su aplicabilidad en otros proyectos.
+
+●	La utilización de este tipo de herramientas tecnológicas nos permite comprender y entender que la tecnología esta para utilizarla y facilitar trabajos, otorgando así tiempo extra y resultados exactos a nuestro trabajo.
+
+●	Creamos una iniciativa como jóvenes encargados de la seguridad alimentaria de las generaciones futuras, de empezar a buscar soluciones para este fenómeno que afecta drásticamente nuestro rubro, comenzando desde ya para poder corregir este efecto generado a lo largo de los años, debido al análisis y observaciones de las gráficas mostradas.
+
 
 # Referencias
 
